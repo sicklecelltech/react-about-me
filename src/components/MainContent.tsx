@@ -6,10 +6,10 @@ function MainContent(): JSX.Element {
     country: "Malaysia",
   };
 
-  const numOne = 3;
-  const numTwo = 6;
+  const numOne = 4;
+  const numTwo = 8;
 
-  const threeFavouriteFoods = ["Chocolate", "Noodles", "Pizza"];
+  const threeFavouriteFoods = ["chocolate", "noodles", "pizza"];
 
   return (
     <main>
